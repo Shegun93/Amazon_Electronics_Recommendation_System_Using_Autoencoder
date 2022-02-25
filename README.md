@@ -1,5 +1,5 @@
 # Recommendation Syetem Overview
-A recommender system is simply an information filtering system. By drawing from huge data sets, the system’s algorithm can pinpoint accurate user preferences. Once you know what your users like, you can recommend them new, relevant content. And that’s true for everything from movies and music, to romantic partner
+A recommender system is simply an information filtering system. By drawing from huge data sets, the system’s algorithm can pinpoint accurate user preferences. Once you know what your users like, you can recommend them new, relevant content. And that’s true for everything from movies and music, to romantic partners
 
 # Autoencoders
 Autoencoders are a specific type of feed forward neural networks where the input is the same as the output. They compress the input into a lower-dimensional code and then reconstructs the output from this representation. The code is a compact “summary” or “compression” of the input, also called the latent-space representation. Auto encoders are great feature extractors because of their highly compressing representation of data (Zhang et. al, 2019). 
